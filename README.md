@@ -23,6 +23,7 @@ int main(void)
 
 }
 
+
 double price(int Teika, double Zei)//税込み価格
 {
 	z;
